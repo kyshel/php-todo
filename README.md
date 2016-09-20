@@ -1,6 +1,7 @@
+![php-todo-sample](https://raw.githubusercontent.com/kyshel/file/master/repo/php-todo-sample.jpg)
+
 # php-todo
 A php todo list, one page app, with user verify.
-![php-todo-sample](https://raw.githubusercontent.com/kyshel/file/master/repo/php-todo-sample.jpg)
 
 ## Usage
 1. Change pass in index.php  
