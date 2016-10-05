@@ -14,5 +14,5 @@ A php todo list, one page app, with user verify.
 4. Do not forget to change the list.json permission. Make it writeable by apache.
 
 ## Credit
-Author: [kyshel](https://github.com/kyshel)
+Author: [kyshel](https://github.com/kyshel)  
 License: MIT
